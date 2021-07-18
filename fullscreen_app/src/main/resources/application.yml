@@ -1,0 +1,17 @@
+spring:
+  lifecycle:
+    # 配置优雅停机后的缓冲器 最大等待时间
+    timeout-per-shutdown-phase: 10s
+  profiles:
+    active: pro
+# 日志
+logging:
+  # 输出级别
+  level:
+    root: info
+  file:
+    path: fullscreen-logs
+  logback:
+    rollingpolicy:
+      max-file-size: 5MB
+      max-history: 14

@@ -1,0 +1,7 @@
+运行方法一：
+直接双击fullscreen.bat文件，弹窗两次即启动完成。
+
+运行方法二：
+先编辑start.vbs脚本文件，输入正确的fullscreen.bat批处理文件的路径，双击start.vbs脚本文件启动脚本，这时弹窗一次启动完成！
+
+												作者：Tony Peng
