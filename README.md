@@ -1,2 +1,1 @@
-# Fullscreen
-Here is going to teach you how to activate fullscreen when you opened your Chrome on Win10.
+#Chrome谷歌浏览器全屏程序
